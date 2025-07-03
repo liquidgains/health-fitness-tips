@@ -1,10 +1,10 @@
 # Health & Fitness Tips Website
 
-A simple, clean, and responsive multi-page HTML + CSS website. This project is designed for beginners and showcases best practices in semantic HTML5 and modern CSS.
+A simple, clean, and responsive multi-page HTML + CSS website for sharing health and fitness tips.
 
 ## Features
 - Responsive design (mobile-friendly)
-- Green health-inspired theme
+- Green, health-inspired theme
 - Semantic HTML5 elements
 - Consistent header and footer
 - No JavaScript or backend code
